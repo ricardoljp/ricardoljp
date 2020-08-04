@@ -3,6 +3,12 @@
 <!--
 **ricardoljp/ricardoljp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+# Ricardo Pereira
+
+## Olá pessoal 👋
+Tenho grande paixão em desenvolvimento de pessoas e gestão ágil.
+Desenvolvimento de software é um grande estímulo e forma de me manter atualizado. 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
