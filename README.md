@@ -1,13 +1,13 @@
-### Hi there 👋
-
-<!--
-**ricardoljp/ricardoljp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Ricardo Pereira
+
+## Hi there 👋
+I have a great passion in people development and Agile management strategies.
+Software Development it is a great way to update my knowledge and to stimulate myselft.
 
 ## Olá pessoal 👋
 Tenho grande paixão em desenvolvimento de pessoas e gestão ágil.
 Desenvolvimento de software é um grande estímulo e forma de me manter atualizado. 
+<!--
 
 Here are some ideas to get you started:
 
