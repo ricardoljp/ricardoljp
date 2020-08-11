@@ -1,12 +1,7 @@
-# Ricardo Pereira
 
-## Hi there 👋
+# Hi there 👋 ! I'm Ricardo Pereira
 I have a great passion in people development and agile management strategies.
 Software Development is a great way to update my knowledge and to stimulate myselft.
-
-## Olá pessoal 👋
-Tenho grande paixão em desenvolvimento de pessoas e gestão ágil.
-Desenvolvimento de software é um grande estímulo e forma de me manter atualizado. 
 
 <!--
 Here are some ideas to get you started:
