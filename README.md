@@ -34,7 +34,11 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://linkedin.com/in/ricardoljpereira" rel="nofollow">
-<img src="https://camo.githubusercontent.com/609be48e654a9c8aed1660c2596b04f09ed13aee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="ricardopereira" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;" width="20" height="20" align="middle"></a>
+<img src="https://camo.githubusercontent.com/609be48e654a9c8aed1660c2596b04f09ed13aee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="ricardoljp" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;" width="20" height="20" align="middle"></a>
+  
+<a href="https://stackoverflow.com/users/14087823/ricardoljp" rel="nofollow">
+<img src="https://camo.githubusercontent.com/b7831cdd2eb45218d9831ba9ebfc80700ddcbb06/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f737461636b6f766572666c6f772e737667" alt="ricardoljp" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" style="max-width:100%;" width="20" height="20" align="middle"></a>
+  
 </p>
 
 
