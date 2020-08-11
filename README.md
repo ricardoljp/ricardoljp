@@ -1,5 +1,5 @@
 
-# Hi there 👋 ! I'm Ricardo Pereira
+<center> # Hi there 👋 ! I'm Ricardo Pereira </center>
 I have a great passion in people development and agile management strategies.
 Software Development is a great way to update my knowledge and to stimulate myselft.
 
