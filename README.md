@@ -1,7 +1,6 @@
 
 <h1 align="center"> # Hi there 👋 ! I'm Ricardo Pereira </h1>
-I have a great passion in people development and agile management strategies.
-Software Development is a great way to update my knowledge and to stimulate myselft.
+I have a great passion in DevOps, it is a great way to update my knowledge and to stimulate myselft.
 
 <!--
 Here are some ideas to get you started:
